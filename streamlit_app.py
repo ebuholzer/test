@@ -7,7 +7,7 @@
 # - Reisemonat
 # - Reisedauer
 # - Budget
-# - Region
+# - Region 
 # - gewünschter Temperatur
 # - Interessen
 #
